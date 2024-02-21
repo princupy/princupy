@@ -1,3 +1,4 @@
+![logo](https://github.com/princupy/princupy/blob/main/banner.gif.gif)
 <h1 align="center">Hi 👋, I'm Prince Sarkar</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
