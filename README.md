@@ -40,10 +40,10 @@
   <a href="https://linkedin.com/in/YOURNAME">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/YOURUSERNAME">
+  <a href="https://instagram.com/tanmoy_here8388">
     <img src="https://img.shields.io/badge/Instagram-e84393?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://discord.gg/YOURSERVER">
+  <a href="https://discord.gg/_itsme_prince_">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
