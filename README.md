@@ -100,24 +100,13 @@
 <!-- ===================== CONNECT ===================== -->
 ## 🤝 **Let's Connect**
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOURNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p>
+  <a href="https://www.instagram.com/tanmoy_here8388/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FFA116?style=for-the-badge&logo=instagram&logoColor=black" />
   </a>
-  <a href="mailto:YOUREMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOURUSERNAME">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/YOURUSERNAME">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://discord.gg/YOURINVITE">
+
+  <a href="https://discord.gg/zDwkzd5aZ9" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@YOURUSERNAME">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
